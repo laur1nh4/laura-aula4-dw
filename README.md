@@ -31,3 +31,4 @@
 4. Para isso, abra o GitHub Desktop, no canto superior esquerdo, clique em "repository" e depois em "pull"; ou faça "Ctrl+shift+P"
 
 ### Pronto, agora você tem um repositório no GitHub!!
+
