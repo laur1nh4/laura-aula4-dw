@@ -32,3 +32,14 @@
 
 ### Pronto, agora você tem um repositório no GitHub!!
 
+#### No dia 08/02 demos continuidade ao conteúdo, aprendendo sobre o branch com os seguintes passos: 
+
+1. Abrimos os **GitHub Web**, **GitHub Desktop** e o **VSC**;
+2. Abrimos a pasta que criamos na primeira aula para testar os códigos, no meu caso a pasta "Laura-aula4-dw"
+3. No **GitHub Desktop** selecionamos os diretório que está sendo executado no **VSC**;
+4. Criamos um branch no campo __"Branch"__ e nomeamos da forma que quisermos, no meu casos "new_branch";
+5. Voltamos pro **VSC** fizemos um novo file chamado __"teste.txt"__ e adicionamos uma frase de teste;
+6. Voltamos no **GitHub Desktop** e damos commit dentro da branch sobre o __"teste.txt"__
+7. Selecionamos o __"main"__ em **Current Branch** e voltamos ao **VSC** e criamos um novo file de teste 2, resultando agora em dois files testes, um na branch nova e outro no main;
+8. Fazemos a unificação da branch ao main apertando em __"Marge into current branch..."__;
+9. Agora não se tem mais necessidade de se ter a branch __"new_branch"__ já que unificamos ela em main, então clicamos nela com o botão direito e vamos excluí-la.
